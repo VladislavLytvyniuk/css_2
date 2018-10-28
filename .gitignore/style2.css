@@ -1,0 +1,81 @@
+
+body{
+	background-color:#384352;
+	
+}
+.block{
+	text-align:center;
+	width:500px;
+	height:350px;
+	background:#333C4B;
+	margin: 100px auto;
+	border-top:5px solid #80D341;
+}
+.content{
+	padding;50px;
+}
+
+.content h1{
+	color:#fff;
+	font-size: 30px;
+	font-weight:normal;
+}
+.content p{
+	color:#B9BCC1;
+	font-size:15px;
+	margin-top:-20px;
+}
+.summ{
+	color:#fff;
+}
+.summ strong{
+	display: inline-block;
+	margin:0px 2px;
+	padding:10px;
+	background:#262C36;
+	border-radius:5px;
+}
+.summ strong:hover{
+	background-color:#80D341;
+	cursor:pointer;
+}
+input{
+	color:#7C8086;
+	height:36px;
+	background:#262C36;
+	border:8px solid #262C36;	
+}
+
+.bank{
+	width:400px;
+	margin:10px;
+}
+.input3 input{
+	margin-right:10px;
+	 	border:5px solid #262C36;
+}
+#NameaCard{
+   width:260px; 
+   margin-left:10px;
+}
+
+#ddyy{
+   width:63px;
+   
+}
+#cvc{
+   width:50px;
+}
+.lastbutton button{
+	width:400px;
+	height:36px;
+	margin-top: 10px;
+	background:#80D341;
+	border:3px solid #80D341;
+	border-radius:7px;
+	color:#E4F5D6;
+	font-size:15px;
+}
+button:hover{
+	opacity:0.9;
+}
